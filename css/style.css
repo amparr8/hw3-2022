@@ -33,7 +33,7 @@ img{
 }
 
 div{
-    height: 130px;
+    min-height: 125px;
     padding:20px;
     border-width: 3px;
     border-color: white;
